@@ -1,0 +1,6 @@
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\bin\Debug\sınıflar.exe.config
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\bin\Debug\sınıflar.exe
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\bin\Debug\sınıflar.pdb
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\obj\Debug\sınıflar.exe
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\obj\Debug\sınıflar.pdb

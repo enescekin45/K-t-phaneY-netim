@@ -1,0 +1,2 @@
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\obj\Debug\sınıflar.csprojAssemblyReference.cache
+C:\Users\enescekin\source\repos\sınıflar\sınıflar\obj\Debug\sınıflar.csproj.CoreCompileInputs.cache
